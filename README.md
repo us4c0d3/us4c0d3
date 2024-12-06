@@ -37,7 +37,7 @@ I am a CS student at KNU, with a strong interest in backend development and DevO
 ![ORACLE](https://img.shields.io/badge/ORACLE-F80000.svg?&style=flat&logo=oracle&logoColor=white)
 ![My SQL](https://img.shields.io/badge/My%20SQL-4479A1.svg?&style=flat&logo=mysql&logoColor=white)
 
-## ✏ Currently learning
+## ✏ Currently Learning
 
 **🖼️ Framework**
 
