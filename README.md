@@ -4,7 +4,7 @@
 
 ## Hi there 👋
 
-I am a CS student at KNU, with a strong interest in Backend development and DevOps.
+I am a CSE student at KNU, with a strong interest in Backend development and DevOps.
 
 
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=us4c0d3&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="us4c0d3's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=us4c0d3&layout=compact&theme=buefy&hide_border=true" /></a> |
