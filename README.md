@@ -46,7 +46,6 @@ I am a CSE student at KNU, with a strong interest in Backend development and Dev
 ## ✏ Currently Learning
 
 ![Kubernetes](https://img.shields.io/badge/kubernetes-326CE5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20.svg?&style=for-the-badge&logo=apachekafka&logoColor=white)
 
 ![Amazon EKS](https://img.shields.io/badge/Amazon%20EKS-FF9900.svg?&style=for-the-badge&logo=amazoneks&logoColor=white)
 ![AWS Cost Optimization](https://img.shields.io/badge/AWS-Cost%20Optimization-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
