@@ -14,8 +14,6 @@ I am a CSE student at KNU, with a strong interest in Backend development and Dev
 
 **📖 Language**
 
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)
 
@@ -34,7 +32,6 @@ I am a CSE student at KNU, with a strong interest in Backend development and Dev
 
 **💾 Database**
 
-![ORACLE](https://img.shields.io/badge/ORACLE-F80000.svg?&style=for-the-badge&logo=oracle&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white)
 
 **🔨 Tools**
